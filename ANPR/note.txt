@@ -1,0 +1,6 @@
+#ACTIVATE VIRTUAL ENVIORNMENT
+.\anprsys\Scripts\activate
+
+
+#pip install requirement
+python -m pip install -r requirements.txt
